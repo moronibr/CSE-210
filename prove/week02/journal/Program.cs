@@ -30,13 +30,11 @@ public class Program
                     break;
 
                 case "3":
-                    Console.WriteLine("Loading from file...");
-                    // Add code to load from file
+                    Load(answersList);
                     break;
 
                 case "4":
                     Save(answersList);
-                    // Add code to save to file
                     break;
 
                 case "5":
@@ -89,6 +87,24 @@ public class Program
         }
     }
     
+    static void Load(List<(string question, string answer)> answersList)
+    {
+        Console.WriteLine("What is the filename?");
+        string filename = Console.ReadLine();
+
+        Console.WriteLine("Loading from file...");
+
+        using (StreamReader inputFile = new StreamReader(filename))
+        {
+            string line;
+
+            while ((line = inputFile.ReadLine()) != null)
+            {
+                Console.WriteLine(line);
+            }
+
+        }
+    }
 
     static void Save(List<(string question, string answer)> answersList)
     {
