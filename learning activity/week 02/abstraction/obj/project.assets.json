@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/prove/week01/MyConsoleApp/MyConsoleApp.csproj",
-      "projectName": "MyConsoleApp",
-      "projectPath": "/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/prove/week01/MyConsoleApp/MyConsoleApp.csproj",
+      "projectUniqueName": "/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/abstraction.csproj",
+      "projectName": "abstraction",
+      "projectPath": "/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/abstraction.csproj",
       "packagesPath": "/home/moronibr/.nuget/packages/",
-      "outputPath": "/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/prove/week01/MyConsoleApp/obj/",
+      "outputPath": "/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/moronibr/.nuget/NuGet/NuGet.Config"

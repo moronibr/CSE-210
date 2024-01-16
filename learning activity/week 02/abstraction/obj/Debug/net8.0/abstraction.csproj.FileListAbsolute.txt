@@ -1,0 +1,15 @@
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/bin/Debug/net8.0/abstraction
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/bin/Debug/net8.0/abstraction.deps.json
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/bin/Debug/net8.0/abstraction.runtimeconfig.json
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/bin/Debug/net8.0/abstraction.dll
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/bin/Debug/net8.0/abstraction.pdb
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/Debug/net8.0/abstraction.GeneratedMSBuildEditorConfig.editorconfig
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/Debug/net8.0/abstraction.AssemblyInfoInputs.cache
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/Debug/net8.0/abstraction.AssemblyInfo.cs
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/Debug/net8.0/abstraction.csproj.CoreCompileInputs.cache
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/Debug/net8.0/abstraction.sourcelink.json
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/Debug/net8.0/abstraction.dll
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/Debug/net8.0/refint/abstraction.dll
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/Debug/net8.0/abstraction.pdb
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/Debug/net8.0/abstraction.genruntimeconfig.cache
+/home/moronibr/Área de trabalho/Moroni/BYU/CSE 210/learning activity/week 02/abstraction/obj/Debug/net8.0/ref/abstraction.dll
